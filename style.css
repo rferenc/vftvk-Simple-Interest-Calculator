@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body 
+{
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
 
+h1
+{
+    color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+label
+{
+    width: 100px;
+    display: inline-block;
+}
+
+.maindiv
+{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+button {
+    margin: 10px;
+}
+
+footer {
+    margin-top: 10px;
+}
